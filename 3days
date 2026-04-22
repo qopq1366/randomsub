@@ -1,6 +1,5 @@
 #profile-title: Триал подписка 3 дня
-#announce: Залил конфиги на github для избежания лимита устройств. Безлимитный трафик. Пожалуйста не скачавайте торренты.
-#Subscription-Userinfo: expire=1777150800
+#announce: Залил конфиги на github для избежания лимита устройств. Безлимитный трафик. Пожалуйста не скачавайте торренты. До 25.04.2026
 vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@82.22.41.107:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=9c77d4b3#%F0%9F%87%B5%F0%9F%87%B1++%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+v3
 vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@45.144.51.205:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=9c77d4b3#%F0%9F%87%B5%F0%9F%87%B1++%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+v2
 vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@82.22.40.148:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=7c8d9e0f#%F0%9F%87%B5%F0%9F%87%B1++%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
